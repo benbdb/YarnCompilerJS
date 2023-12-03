@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Test files
+**/output.json
+**/test.yarn
+**/test.yarnproject
+**/test.ysls.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment configuration files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional artifacts
+coverage/
